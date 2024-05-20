@@ -1,3 +1,7 @@
+
+# Update
+This is just a fork from JSF*ck , if you want the JSFuck's improved version - try [DemonJS](https://github.com/ScadeBlock/DemonJS) 
+___
 # JSFuck `[]()!+`
 
 JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
